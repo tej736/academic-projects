@@ -33,7 +33,7 @@ The data was structured for time-series analysis and financial metric computatio
 * Computed daily returns and summary statistics
 * Visualized price trends, return distributions, and volatility
 * Calculated and plotted moving averages to identify momentum patterns
-* Generated a reproducible HTML report using R Markdown
+* Generated a report using R Markdown
 
 # Key Results
 
