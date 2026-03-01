@@ -10,3 +10,4 @@ These projects represent my academic grounding and complement my professional ex
 * Hospital Patient Management System (Relational Database Design)
 * Coronary Heart Disease Risk Prediction (Applied Machine Learning)
 * NVIDIA Stock Performance & Financial Analysis (R)
+* Banana Quality Prediction Using Machine Learning
